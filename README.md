@@ -23,6 +23,11 @@ This section will get you started with basic algorithms.
 4. Stacks and Queues
 5. Linked Lists
 6. Trees
+`Binary Tree`
+`BST`
+`Heap`
+`AVL`
+`B-tree`
 7. Hash
 8. Sorting and Searching Algorithms
 9. Graphs
